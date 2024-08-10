@@ -21,7 +21,7 @@
 
 
 
-###Key Components
+### KEY COMPONENTS
 1. ***Port Scanning***:
 Use techniques such as TCP SYN scan to identify open ports on a target.
 Implement a timeout mechanism to avoid long wait times.
