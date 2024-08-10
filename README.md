@@ -14,21 +14,21 @@
 
 
 #### OBJECTIVE
-***The primary objective of this project is to develop a simple vulnerability scanning tool that can:
+***The primary objective of this project is to develop a simple vulnerability scanning tool that can***:
 1.Identify Open Ports: Scan a target network or website to find open ports that may be susceptible to attacks.
 2.Detect Outdated Software Versions: Check for known vulnerabilities in software versions running on the target system.
-3.Identify Misconfigurations: Look for common misconfigurations that could lead to security vulnerabilities.***
+3.Identify Misconfigurations: Look for common misconfigurations that could lead to security vulnerabilities.
 
 
 
 ###Key Components
-1. ***Port Scanning***
+1. ***Port Scanning***:
 Use techniques such as TCP SYN scan to identify open ports on a target.
 Implement a timeout mechanism to avoid long wait times.
-2. ***Version Detection***
+2. ***Version Detection***:
 Retrieve software version information from services running on open ports.
 Use a database of known vulnerabilities (like the National Vulnerability Database) to match versions against known issues.
-3. ***Configuration Checks***
+3. ***Configuration Checks***:
 Perform basic checks for common misconfigurations (e.g., default credentials, unnecessary services running).
   
 
