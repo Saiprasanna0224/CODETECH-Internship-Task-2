@@ -13,6 +13,9 @@
 #### PROJECT :  ****Create a simple vulnerability scanning tool that scans a network or website for common security vulnerabilities such as open ports, outdated software versions, and misconfigurations****
 
 
+![image](https://github.com/user-attachments/assets/b431be3a-c541-4ae4-989c-f0dd1b55cff1)
+
+
 #### OBJECTIVE
 ***The primary objective of this project is to develop a simple vulnerability scanning tool that can***:
 1.Identify Open Ports: Scan a target network or website to find open ports that may be susceptible to attacks.
